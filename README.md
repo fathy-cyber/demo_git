@@ -1,2 +1,2 @@
 # demo_git
-mon premier referenciel (repository)....
+c'est bien mon premier repository....fonctionne correctement !
